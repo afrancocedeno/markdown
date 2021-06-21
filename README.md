@@ -11,7 +11,7 @@ Publisher: hnw
 
 ## Resources
 [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HUBNt18RFbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **version 0.0.0**
 
 ## Content
@@ -42,7 +42,7 @@ git push origin markdown/masterFeature
 5. Open a Pull Request
 
 ## Contributors
-* Alejandro Franco Cedeño <afrancocedeno@gmail.com> | 
+* Alejandro Franco Cedeño: <afrancocedeno@gmail.com> | 
 [Github](github.com/afrancocedeno) | 
 [Twitter](twitter.com/afrancocedeno) |
 [Linkedin](linkedin.com/in/afrancocedeno/)
