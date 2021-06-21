@@ -11,15 +11,14 @@ Publisher: hnw
 
 ## Resources
 [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUBNt18RFbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **version 0.0.0**
-N/A
 
 ## Content
 
- File Name | | | | | | Description
--|-|-|-|-|-|-
-sample/README.md | | | | | | the markdown basics
+ File Name | Description
+-|-
+sample/README.md |the markdown basics
 
 ## Demo code
 N/A
@@ -47,9 +46,6 @@ git push origin markdown/masterFeature
 [Github](github.com/afrancocedeno) | 
 [Twitter](twitter.com/afrancocedeno) |
 [Linkedin](linkedin.com/in/afrancocedeno/)
-
-## How to contribute
-N/A
 
 ## License & Copyright
 
