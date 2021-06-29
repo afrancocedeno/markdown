@@ -43,7 +43,7 @@ git push origin markdown/masterFeature
 
 ## Contributors
 * Alejandro Franco Cedeño: <afrancocedeno@gmail.com> | 
-[Github](github.com/afrancocedeno) | 
+[Github](https://github.com/afrancocedeno) | 
 [Twitter](twitter.com/afrancocedeno) |
 [Linkedin](linkedin.com/in/afrancocedeno/)
 
