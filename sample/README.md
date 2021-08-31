@@ -87,6 +87,6 @@ you can specify the code language of the block
 
 <!-- task lists -->
 * [x] Checkbox one
-* [] Checkbox two
+* [ ] Checkbox two
 
 > Look for markdown to HTML converter on google
