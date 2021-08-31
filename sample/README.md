@@ -13,7 +13,7 @@
 _this text is also italic_ using underscore
 
 
-~~this thest is strikethrough~~ using 2 tilde
+~~this thest is strikethrough~~ using 2 tilde ~
 
 First way to separate content using 3 scores
 
