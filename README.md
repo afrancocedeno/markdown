@@ -1,3 +1,6 @@
+## About READMEs
+actualizar un README del portfolio /// readme have a valid description of the console? What it does, how to run it, and how to use it? ///  readme show at least one example on how to use the console? /// Does the Readme have a valid title:
+
 ## Installation
 Recomended VS CODE extensions:
 ~~~
